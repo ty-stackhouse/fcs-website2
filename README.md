@@ -8,9 +8,16 @@ A responsive, image-driven portfolio website for Forest Chorus Studio, an embroi
 - Lightbox for detailed image viewing
 - Hero section with full-screen image carousel
 - Contact form
-- Sections for magazine features, published book, Etsy links, testimonials, and licensing info
+- Sections for magazine features, published book, Etsy tutorials, client testimonials, and licensing information
 - SEO optimization (meta tags, alt text, sitemap.xml)
-- Modular and well-documented code
+- Modular, well-documented code
+
+## Technologies
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Vite (for fast development)
 
 ## Getting Started
 
@@ -30,12 +37,8 @@ A responsive, image-driven portfolio website for Forest Chorus Studio, an embroi
 
 ## Deployment
 
-The site can be deployed to platforms like Vercel or Netlify. A GitHub Actions workflow will be set up for CI/CD.
+This project is set up for easy deployment to Vercel or Netlify. Push to the `main` branch to trigger automatic deployment.
 
-## Technologies
+## License
 
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Vite
+MIT
